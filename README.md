@@ -43,4 +43,4 @@ During my work I used and learned from great discussions and some notebooks shar
 
 I'm really very thankful to all the authors.
 
-*NOTE: because of security reasons(internet interruption) I've downloaded the files from kaggle.com.
+__*NOTE__: because of security reasons(internet interruption) I've downloaded the files(**_datasets_**) from kaggle.com.
