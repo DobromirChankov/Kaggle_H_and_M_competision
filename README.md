@@ -50,4 +50,4 @@ __*NOTE__: because of security reasons(internet interruption) I've downloaded th
 
 During the holydays I've tried to give second solution with a recurrent neural network (RNN).
 
-At the moment I'm facing some difficulties and my code is not $100 \%$ ready yet.
+At the moment I'm facing some difficulties and my code is not $100$`%` ready yet.
