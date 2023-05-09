@@ -1,8 +1,9 @@
 # Kaggle_H_and_M_competision
 H&amp;M Personalized Fashion Recommendations
 
+There are two sollotions I've prepared.
 
-# Solution for a *Kaggle's* competition
+# 1. Solution for a *Kaggle's* competition
 
 #### ["H&M Personalized Fashion Recommendations"]('https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations')
 
@@ -44,3 +45,9 @@ During my work I used and learned from great discussions and some notebooks shar
 I'm really very thankful to all the authors.
 
 __*NOTE__: because of security reasons(internet interruption) I've downloaded the files(**_datasets_**) from kaggle.com.
+
+# 2. Solution with Neural Network(RNN)
+
+During the holydays I've tried to give second solution with a recurrent neural network (RNN).
+
+At the moment I'm facing some difficulties and my code is not $100 \%$ ready yet.
